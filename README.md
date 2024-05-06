@@ -1,5 +1,6 @@
 # Road Accident Dashboard
 The Road Accident Analytics dashboard, created for 2021 and 2022, offers insights into road accidents. It involves data cleaning, analysis, and visualization in Excel, presenting key findings such as casualty statistics, accident trends, and recommendations for improved road safety. The dashboard empowers clients with actionable insights for accident prevention and suggests future enhancements, including predictive analytics and real-time data integration.
+
 <img width="595" alt="Road Accident Dashboard" src="https://github.com/Kapildarwani22/Excel-Road-Accident-Dashboard/assets/116799321/d3327010-b953-46f0-9dd3-3fea1c87b1a5">
 
 # Table of Contents
